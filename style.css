@@ -1,0 +1,22 @@
+.style{
+    height: 100px;
+    width: 300px;
+    border: 1px solid black;
+    margin: 0 auto;
+}
+h1{
+    color: blue;
+    font-size: 30px;
+    weight: 800;
+    text-align: center;
+}
+.btn{
+    height: 30px;
+    width: 90px;
+   margin: 0 auto;
+background-color: blueviolet;
+border-radius: 5px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
